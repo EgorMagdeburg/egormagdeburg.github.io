@@ -603,6 +603,7 @@ text-decoration: underline;
 /* footer-center */
 
 .footer__logo-block{
+  display: inline-block;
   margin-bottom: -14px;
   margin-top: 13px;
   margin-left: 183px;
