@@ -1,0 +1,36 @@
+/* articles-pagination */
+.pagination-block {
+  text-align: center;
+}
+
+.article__pagination {
+  display: inline-block;
+  margin-bottom: 66px;
+
+}
+
+.article__pagination-text {
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: lighter;
+  color: gray;
+}
+
+.pagination__controlls {
+  display: inline-block;
+}
+
+.pagination__list {
+  display: inline-block;
+}
+
+.pagination__item a
+ {
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight:bold;
+  color:#27273e;
+}
+

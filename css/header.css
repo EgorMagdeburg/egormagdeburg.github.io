@@ -1,0 +1,47 @@
+/* header */
+header {
+  background-color: #27273e;
+  min-height: 67px;
+  min-width: 1110px;
+}
+
+.header-logo {
+  display: block;
+}
+
+.header__left {
+  margin-left: 18px;
+  margin-top: 3px;
+  min-width: 500px;
+  display: inline-block;
+  min-width: 550px;
+  text-align: left;
+}
+
+.header__right {
+  margin-top: 9px;
+  vertical-align: top;
+  display: inline-block;
+  min-width: 500px;
+  text-align: right;
+}
+
+.header__phone {
+  margin-right: -8px;
+  margin-bottom: 2px;
+  display: block;
+  font:normal bold 21px/1 'GothamPro';
+  color: white;                                                                                                                                                                                           
+}
+
+.header__schedule {
+  text-align: right;
+  margin-right: -5px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 14px;
+  display: block;
+  color: #b12167;
+  text-decoration: underline;
+ 
+}
